@@ -1,0 +1,23 @@
+/* CSS style sheet */
+
+*{
+    Verdana, Geneva, sans-serif
+    color: #202020;
+}
+
+body{
+    background-color: #FFFFFF;
+}
+
+header{
+    background-color: #CCFFFF;   
+}
+
+.emphasis{
+    color: #FF0000;
+    border-bottom: 2px dotted #4169E1;
+}
+
+footer{
+    background-color: #CCFFFF;   
+}
